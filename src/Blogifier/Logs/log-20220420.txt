@@ -1,0 +1,31 @@
+2022-04-20 16:30:09.193 +02:00 [WRN] Application start
+2022-04-20 16:30:09.403 +02:00 [WRN] Start configure services
+2022-04-20 16:30:10.481 +02:00 [WRN] Done configure services
+2022-04-20 16:30:14.756 +02:00 [INF] Current directory path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
+2022-04-20 16:30:14.776 +02:00 [INF] Development debug path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
+2022-04-20 16:30:15.521 +02:00 [INF] Current directory path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
+2022-04-20 16:30:15.521 +02:00 [INF] Development debug path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
+2022-04-20 16:31:41.649 +02:00 [INF] Current directory path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
+2022-04-20 16:31:41.649 +02:00 [INF] Development debug path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
+2022-04-20 16:31:41.704 +02:00 [INF] Current directory path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
+2022-04-20 16:31:41.705 +02:00 [INF] Development debug path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
+2022-04-20 16:38:25.158 +02:00 [INF] Current directory path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
+2022-04-20 16:38:25.158 +02:00 [INF] Development debug path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
+2022-04-20 16:38:26.882 +02:00 [INF] Current directory path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
+2022-04-20 16:38:26.882 +02:00 [INF] Development debug path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
+2022-04-20 16:42:26.030 +02:00 [WRN] Verifying password for wrong@email.com
+2022-04-20 16:42:26.035 +02:00 [WRN] User with email wrong@email.com not found
+2022-04-20 16:42:30.591 +02:00 [WRN] Verifying password for test@user.one
+2022-04-20 16:42:30.601 +02:00 [WRN] Successful login for test@user.one
+2022-04-20 16:42:30.632 +02:00 [INF] Current directory path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
+2022-04-20 16:42:30.633 +02:00 [INF] Development debug path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
+2022-04-20 16:44:25.947 +02:00 [INF] Current directory path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
+2022-04-20 16:44:25.947 +02:00 [INF] Development debug path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
+2022-04-20 16:44:27.622 +02:00 [INF] Current directory path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
+2022-04-20 16:44:27.622 +02:00 [INF] Development debug path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
+2022-04-20 16:44:32.478 +02:00 [WRN] Verifying password for wrong@email.com
+2022-04-20 16:44:32.479 +02:00 [WRN] User with email wrong@email.com not found
+2022-04-20 16:44:37.274 +02:00 [WRN] Verifying password for test@user.one
+2022-04-20 16:44:37.283 +02:00 [WRN] Successful login for test@user.one
+2022-04-20 16:44:37.308 +02:00 [INF] Current directory path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
+2022-04-20 16:44:37.308 +02:00 [INF] Development debug path: C:\Users\Bruger\Documents\GitHub\Blogifier\src\Blogifier
