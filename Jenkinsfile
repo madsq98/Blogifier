@@ -23,7 +23,7 @@ pipeline {
         stage("Execute UI tests") {
             steps {
                 echo "Executing TestCafe tests.."
-                sh "docker run -v /root/Blogifier/src/Blogifier/TestCafe:/tests -t testcafe/testcafe chromium /tests/*.js"
+                sh "docker run -v ${WORKSPACE}/src/Blogifier/TestCafe/:/tests -t testcafe/testcafe chromium /tests/*.js"
             }
             post {
                 always {
